@@ -9,7 +9,8 @@ passionate about learning software development to continuously improve myself.
 </p>
 <h2>My Skills</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,go,py,java,nextjs,flutter,mysql,postgres,aws,firebase,postman,docker,&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,go,py,java,cpp&theme=light)](https://skillicons.dev)<br/>
+[![My Skills](https://skillicons.dev/icons?i=nextjs,flutter,mysql,postgres,aws,firebase,postman,docker&theme=light)](https://skillicons.dev)
 
 <h4>Contact me</h4>
 <ul>
