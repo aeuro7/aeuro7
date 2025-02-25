@@ -16,7 +16,7 @@ passionate about learning software development to continuously improve myself.
 <h4>Contact me</h4>
 <ul>
 <li><a target="_blank" href="">tibet.cpb@gmail.com </a></li>  
-<li><a target="_blank" href="https://www.linkedin.com/in/Tibet Charoensripaiboon">Linkedin </a></li>  
+<li><a target="_blank" href="https://www.linkedin.com/in/tibet-charoensripaiboon-895162328/">Linkedin </a></li>  
 
 </ul>
 
