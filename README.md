@@ -4,7 +4,7 @@
 
 <p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-3rd-year Computer Science student from Kasetsart University with experience in software development and system design.<br>
+4rd-year Computer Science student from Kasetsart University with experience in software development and system design.<br>
 passionate about learning software development to continuously improve myself.
 </p>
 
